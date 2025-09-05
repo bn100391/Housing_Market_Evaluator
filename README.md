@@ -2,7 +2,9 @@
 
 This is a really interesting question because there is no static answer, only: *it depends*. 
 
-And it depends on a lot of things. When I started really thinking about it I began to realize that there were so many variables that trying to do it all in your head for every option that you have isn't really feasable. So I decided to write a tool to *automate the process* of evaluating 
+And it depends on a lot of things. When I started really thinking about it I began to realize that there were so many variables that trying to do it all in your head for every option that you have isn't really feasable. So I decided to write a tool to *automate the process* of evaluating a given rental option against a given opportunity to buy a home/condo. 
+
+If you'd like to take a look, just run this like you would run any other python program. 
 
 
 
