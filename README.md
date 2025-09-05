@@ -1,4 +1,4 @@
-# Is It Better To Buy Your Home? Or Rent It?
+# Is It Better To Buy A Home? Or Rent It?
 
 This is a really interesting question because there is no static answer, only: *it depends*. 
 
