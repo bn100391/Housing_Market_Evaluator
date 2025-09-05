@@ -6,7 +6,11 @@ And it depends on a lot of things. When I started really thinking about it I beg
 
 If you'd like to take a look, just run this like you would run any other Python program. 
 
+<img width="727" height="302" alt="Screenshot 2025-09-05 at 3 44 27 PM" src="https://github.com/user-attachments/assets/6846f1b8-9c65-46b7-ab67-ac3b38247239" />
 
+<img width="512" height="515" alt="Screenshot 2025-09-05 at 3 44 38 PM" src="https://github.com/user-attachments/assets/fc0adfc6-d5d9-4fd8-9c0c-43431f1f1727" />
+
+<img width="571" height="589" alt="Screenshot 2025-09-05 at 3 44 49 PM" src="https://github.com/user-attachments/assets/485ec6ca-68f5-43dd-8917-5126272d388b" />
 
 <br><br>
 **DISCLAIMER:** This is not financial advice.
