@@ -4,7 +4,7 @@ This is a really interesting question because there is no static answer, only: *
 
 And it depends on a lot of things. When I started really thinking about it I began to realize that there were so many variables that trying to do it all in your head for every option that you have isn't really feasable. So I decided to write a tool to *automate the process* of evaluating a given rental option against a given opportunity to buy a home/condo. 
 
-If you'd like to take a look, just run this like you would run any other Python program. 
+If you'd like to take a look, just run this like you would run any other Python program and follow the prompts.  
 
 <img width="727" height="302" alt="Screenshot 2025-09-05 at 3 44 27 PM" src="https://github.com/user-attachments/assets/6846f1b8-9c65-46b7-ab67-ac3b38247239" />
 
