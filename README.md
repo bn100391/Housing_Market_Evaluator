@@ -2,7 +2,7 @@
 
 This is a really interesting question because there is no static answer, only: *it depends*. 
 
-And it depends on a lot of things. When I started really thinking about it I began to realize that there were so many variables that trying to do it all in your head for every option that you have isn't really feasable. So I decided to write a tool to *automate the process* of evaluating a given rental option against a given opportunity to buy a home/condo. 
+And it depends on a lot of things. When I started really thinking about it I began to realize that there were so many variables that trying to do it all in your head for every option that you have isn't really feasable. So I decided to write a tool to *automate the process* of evaluating a given rental option against a given opportunity to buy a home/condo. The main idea here is to find the better investment vehicle. Would it be better to put the extra money on hand saved by renting in the stock market?. Or would it see better returns placing into the ownership of a home?  
 
 If you'd like to take a look, just run this like you would run any other Python program and follow the prompts.  
 
