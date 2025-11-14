@@ -123,7 +123,7 @@ for year in years:
       extraToInvestHistory.append(leftover)
       wealth_renter.append(currRenterWealth)
       
-      # ... adjust current wealther and buyer wealth, for next year.  
+      # ... adjust current wealth and buyer wealth, for next year.  
       currBuyerWeatlh = compute_curr_buyer_wealth(currCondoValue, currLoanOutstanding, buyerPortfolio)
       currRenterWealth = compute_curr_renter_wealth(currRenterWealth, annualCostBuyer, currRentRate, marketReturnRate)
 
